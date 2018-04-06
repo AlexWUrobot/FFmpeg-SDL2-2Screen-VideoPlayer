@@ -1,1 +1,1 @@
-# FFmpeg-SDL2-mingw-Two-Player
+# FFmpeg-SDL2-2Screen-VideoPlayer
