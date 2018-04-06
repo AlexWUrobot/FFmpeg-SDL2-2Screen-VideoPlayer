@@ -23,6 +23,6 @@ Generate the “2PlayerWindow.exe” file
 Step6: Execute “2PlayerWindow YourVideoFileName.mp4 ”in cmd window  
 Ex: 2PlayerWindow kano.mp4  
 Ex: 2Thread YourVideoFileName1.mp4 YourVideoFileName2.mp4  
-![image](picture/6.png)  
+![image](picture/6.png)  
 Step7:Result  
 ![image](picture/7.png)  
