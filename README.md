@@ -1,12 +1,5 @@
 # FFmpeg-SDL2-2Screen-VideoPlayer
 
-
-
-
-<figure class="half">
-    <img src="https://raw.githubusercontent.com/AlexWUrobot/FFmpeg-SDL2-2Screen-VideoPlayer/master/picture/1.png" width="80">
-    <img src="https://raw.githubusercontent.com/AlexWUrobot/FFmpeg-SDL2-2Screen-VideoPlayer/master/picture/1.png" width="48">
-</figure>
-
-![image](https://raw.githubusercontent.com/AlexWUrobot/FFmpeg-SDL2-2Screen-VideoPlayer/master/picture/1.png)
+Step1: Setting the DevC++ compiler:
+Add: -libgcc -lpthread  -lavcodec.dll  -lavformat.dll  -lavutil.dll  -lswscale.dll -lmingw32 -lSDL2main -lSDL2
 ![image](picture/1.png)
