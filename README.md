@@ -1,6 +1,4 @@
 # FFmpeg-SDL2-2Screen-VideoPlayer
-<center>
-    ![image](picture/1.png)
-</center>
 
 
+![image](picture/ %20 1.png)
